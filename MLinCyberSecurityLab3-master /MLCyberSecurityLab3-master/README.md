@@ -33,10 +33,10 @@ Instructions on running the code - </br>
 
 Now, upon pruning the model, we can use the clean validation data set and test it on the test data set. The accuracy and attack success rate would look like this for the validation dataset -
 
-![Diagram 1](https://github.com/ShiwangiMishra-Git/MLinCyberSecurity---Lab3/blob/master/MLCyberSecurityLab3-master/accuracy-attack-success.png)
+![Diagram 1](https://github.com/ShiwangiMishra-Git/MLCyberSecurity-Lab3/blob/master/MLinCyberSecurityLab3-master%20/MLCyberSecurityLab3-master/accuracy-attack-success.png)
 
 We can notice that the prune defense is not that successful here because the attack success rate does not drop too much. The attack success rate is okay, but not too good because it compromises the accuracy way too much. My hypothesis is that attack method is prune immune attack and that the pruned model is retained with the poisoned data.
 
 Also, there is a side-by-side comparison of the performance of the repaired model and it can be seen here -
 
-![Diagram 2](https://github.com/ShiwangiMishra-Git/MLinCyberSecurity---Lab3/blob/master/MLCyberSecurityLab3-master/performance-repaired-model.png)
+![Diagram 2](https://github.com/ShiwangiMishra-Git/MLCyberSecurity-Lab3/blob/master/MLinCyberSecurityLab3-master%20/MLCyberSecurityLab3-master/performance-repaired-model.png)
