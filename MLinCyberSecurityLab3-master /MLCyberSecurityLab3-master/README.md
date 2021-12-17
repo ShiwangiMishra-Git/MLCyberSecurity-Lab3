@@ -1,7 +1,7 @@
 # MLinCyberSecurity-Lab3
 
 
-# Lab 03 Report
+# Lab Report
 **Name:** Shiwangi Mishra </br>
 **NETID:** sm9175
 
